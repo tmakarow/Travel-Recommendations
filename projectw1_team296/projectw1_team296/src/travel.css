@@ -1,0 +1,21 @@
+.root{
+    -fx-background-image: url("https://cdn.cnn.com/cnnnext/dam/assets/180427150309-03-puerto-escondido.jpg");
+    -fx-background-size: cover;
+
+}
+.label{
+    -fx-text-fill: white;
+}
+.button{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-background-radius: 4;
+}
+.button-blue{
+    -fx-background-color: blue;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+#bold-label{
+    -fx-font-weight: bold;
+}
